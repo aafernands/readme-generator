@@ -12,7 +12,7 @@
 
 ## Project Description
 
-All project needs a good quality README. This is a README example to illustrate the functionality of this application.
+All project needs a good quality README.This is a README example to illustrate the functionality of this application.
 
 ## Instalation
 
@@ -28,10 +28,7 @@ _The following steps are required to run this application:_
 
 Instructions and examples for use:
 
-![demo](video.mp4)
-
-
-![Video Demo](https://drive.google.com/file/d/15akz-HgYDva0msx5zSGYdaSDmLQJFSMJ/view)
+![demo](assets/demo.gif)
 
 This command-line application dynamically generates a README.md from a user's input. To invoke the application run the following command:
 

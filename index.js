@@ -2,6 +2,9 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const { ENETRESET } = require("constants");
 const packageJson = require("./package.json");
+// let image = require('./assets/images/alex.png')
+
+// console.log('image', image)
 
 inquirer
 	.prompt([
@@ -146,7 +149,7 @@ ${response.testInstructions}
 
 ## Questions?
 
-![alt text](alex.png)
+![alt text](./assets/images/alex.png)
 
 Feel free to contact me for any question. Id be more then happy to help.
 
@@ -160,7 +163,7 @@ ${licenseDescription}
 
 `;
 
-		fs.writeFile("README.md", text, (err) =>
+		fs.writeFile("README_GENERATOR.md", text, (err) =>
 			err ? console.error(err) : console.log("Success!")
 		);
 	});
