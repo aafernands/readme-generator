@@ -28,7 +28,7 @@ _The following steps are required to run this application:_
 
 Instructions and examples for use:
 
-![demo](assets/demo.gif)
+![demo](demo.gif)
 
 This command-line application dynamically generates a README.md from a user's input. To invoke the application run the following command:
 
