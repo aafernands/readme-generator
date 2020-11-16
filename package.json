@@ -1,8 +1,13 @@
 {
   "name": "readme-generator",
   "version": "1.0.0",
-  "description": "This application generates a great quality generator for use in projects.",
+  "description": "This is a README example to illustrate the functionality of this application.",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

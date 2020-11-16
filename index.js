@@ -107,6 +107,8 @@ limitations under the License.`;
 
 
 ${licenseType}
+![GitHub license](https://img.shields.io/badge/Made%20by-%40${response.gitHubUsername}-orange)
+
 
 | Table of Contents |
 | ----------- |
@@ -129,8 +131,6 @@ ${response.installationInstructions}
 ---
 Instructions and examples for use:
 
-![GIF video goes here](/)
-
 
 ${response.usageInformation}
 
@@ -146,7 +146,7 @@ ${response.testInstructions}
 
 ## Questions?
 
-![alt text](alexc.png)
+![alt text](alex.png)
 
 Feel free to contact me for any question. Id be more then happy to help.
 
