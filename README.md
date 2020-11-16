@@ -1,7 +1,7 @@
 # README GENERATOR APP
-![GitHub license](https://img.shields.io/badge/Made%20by-aafernands-green)
-
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+![GitHub license](https://img.shields.io/badge/Made%20by-%40aafernands-orange)
+
 
 | Table of Contents             |
 | ----------------------------- |
@@ -28,7 +28,7 @@ _The following steps are required to run this application:_
 
 Instructions and examples for use:
 
-![demo](assets/demo.gif)
+![demo](assets/images/demo.gif)
 
 This command-line application dynamically generates a README.md from a user's input. To invoke the application run the following command:
 
@@ -44,7 +44,7 @@ This command-line application dynamically generates a README.md from a user's in
 
 ## Questions?
 
-![alt text](alex.png)
+![alex photo](./assets/images/alex.png)
 
 Feel free to contact me for any question. Id be more then happy to help.
 

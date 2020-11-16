@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus ullam fugiat
 
 ## Questions?
 
-![alt text](./assets/images/alex.png)
+![alex photo](./assets/images/alex.png)
 
 Feel free to contact me for any question. Id be more then happy to help.
 
