@@ -28,7 +28,10 @@ _The following steps are required to run this application:_
 
 Instructions and examples for use:
 
-![demo](assets/demo.gif)
+![demo](video.mp4)
+
+
+![Video Demo](https://drive.google.com/file/d/15akz-HgYDva0msx5zSGYdaSDmLQJFSMJ/view)
 
 This command-line application dynamically generates a README.md from a user's input. To invoke the application run the following command:
 
