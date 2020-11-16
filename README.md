@@ -12,7 +12,7 @@
 
 ## Project Description
 
-All project needs a good quality README.This is a README example to illustrate the functionality of this application.
+All project needs a good quality README. This is a README example to illustrate the functionality of this application.
 
 ## Instalation
 
@@ -33,10 +33,6 @@ Instructions and examples for use:
 This command-line application dynamically generates a README.md from a user's input. To invoke the application run the following command:
 
 `node index.js`
-
-## Contributing
-
-
 
 ## Test
 
