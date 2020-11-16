@@ -45,9 +45,9 @@ This command-line application dynamically generates a README.md from a user's in
 
 Feel free to contact me for any question. Id be more then happy to help.
 
-[Github Profile](https://github.com/dggd)
+[Github Profile](https://github.com/aafernands)
 
-[Email address](https://github.com/gdgd)
+[Email address](alexfernands@outlook.com)
 
 ## License
 
